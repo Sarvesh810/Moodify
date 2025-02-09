@@ -1,0 +1,94 @@
+# ==========================
+# General
+# ==========================
+*.log
+*.out
+*.pid
+*.swp
+.DS_Store
+.vscode/
+.idea/
+*.bak
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ==========================
+# Python & Flask
+# ==========================
+venv/
+env/
+*.venv
+instance/
+config.py
+.env
+.env.local
+.env.*.backup
+*.sqlite3
+*.db
+
+# ==========================
+# Node.js / React Frontend
+# ==========================
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+build/
+dist/
+public/*.cache
+*.log
+coverage/
+.next/
+.vercel/
+out/
+
+# ==========================
+# PostgreSQL
+# ==========================
+pg_data/
+*.dump
+*.sql
+
+# ==========================
+# Docker
+# ==========================
+docker-compose.override.yml
+.dockerignore
+*.dockerfile
+*.dockerignore
+
+# ==========================
+# TensorFlow & Machine Learning Models
+# ==========================
+model/
+models/
+checkpoints/
+*.h5
+*.tflite
+*.pb
+*.pth
+*.ckpt
+*.pt
+logs/
+saved_models/
+tensorboard_logs/
+*.npy
+*.npz
+*.csv
+
+# ==========================
+# Jupyter Notebooks (if applicable)
+# ==========================
+.ipynb_checkpoints/
+*.ipynb
+
+# ==========================
+# Misc
+# ==========================
+celerybeat-schedule
+*.log
+*.bak
+*.tmp
