@@ -1,4 +1,4 @@
-# 📀 **Moodify – Mood-Based Spotify Song Recommender** 🎵
+# 📀 **Moodify – Mood-Based Spotify Recommender** 🎵
 
 A Spotify-powered music recommender that plays songs from your playlists based on your mood! Whether you're happy, sad, calm, or energetic, Moodify picks the perfect tracks and plays them on your connected Spotify device.
 
